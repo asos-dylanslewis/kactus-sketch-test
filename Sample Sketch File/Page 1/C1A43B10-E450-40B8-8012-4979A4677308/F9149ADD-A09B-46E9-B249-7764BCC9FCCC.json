@@ -13,7 +13,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 116,
+    "height": 80,
     "width": 375,
     "x": 0,
     "y": 116
@@ -27,6 +27,30 @@
   "name": "Cells/Application/Mail Cell",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "616584E6-185C-4D79-9E96-6FFD248F6458",
+      "overrideName": "6C79ABE9-2CD7-4B11-A01E-BCD26A9B30A4_stringValue",
+      "value": "Dylan Lewis"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "474E562F-9CB3-4073-B2A7-9A68ED03E470",
+      "overrideName": "550119E5-9663-4C68-9B15-6774D5E12110_stringValue",
+      "value": "9:41"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D2D7AB04-6C1B-43B4-A6AD-2BB042CE8F2B",
+      "overrideName": "2EB42509-CACC-4113-9055-7F6E050D9BB9_stringValue",
+      "value": "Testing out Kactus"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9693532F-9036-4131-B440-B9565F1A2A70",
+      "overrideName": "8D95DF4B-455C-4821-9032-45CB58913941_stringValue",
+      "value": "Is it good?"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,

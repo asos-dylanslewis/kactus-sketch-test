@@ -27,6 +27,12 @@
   "name": "Bars/Navigation/Navigation Bar",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5F63D14E-9B08-44D3-8D21-3826F7AC9A0C",
+      "overrideName": "DE113798-B12F-4DDE-87B2-6DFE6309C307/06E91258-2554-48B2-A0FE-9D123BE9272C_stringValue",
+      "value": "Hello World"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
